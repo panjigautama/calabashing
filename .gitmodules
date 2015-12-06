@@ -1,0 +1,3 @@
+[submodule "calabash-android/calabash-android"]
+	path = calabash-android/calabash-android
+	url = https://github.com/calabash/calabash-android.git
